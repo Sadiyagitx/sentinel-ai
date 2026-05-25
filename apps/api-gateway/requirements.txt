@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+redis
+openai
+websockets
+psycopg2-binary
+pydantic
+langgraph
+langchain-openai
